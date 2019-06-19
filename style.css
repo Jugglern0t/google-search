@@ -1,0 +1,23 @@
+body {
+  color: #222;
+}
+
+body, html {
+  font-family: arial, sans-serif;
+  font-size: small;
+}
+
+div {
+  display: block;
+}
+
+div#top_nav {
+  min-width: 1100px;
+}
+
+.top_nav {
+  height: 85px;
+  position: absolute;
+  width: 100%;
+  min-width: 1100px;
+}
